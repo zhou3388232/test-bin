@@ -1,0 +1,13 @@
+{
+    "name": "zhou3388232/test-bin",
+    "description": "is a test",
+    "require": {
+      "php": ">=7.2.0"
+    },
+    "type": "shell",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
+}
